@@ -37,3 +37,8 @@ Thumbs.db
 lib/
 include/
 share/
+
+# maked file
+darknet
+insect-cfg
+
